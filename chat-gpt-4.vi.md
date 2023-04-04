@@ -29,25 +29,25 @@ Ngoài ra, Bạn cũng có thể hỏi luôn ChatGPT cách hỏi ChatGPT :)))
 
 **Viết và chỉnh sửa văn bản:**
 
-- [ ] Tóm tắt văn bản tự động
-- [ ] Tạo nội dung bài viết
-- [ ] Tạo tiêu đề hấp dẫn
-- [ ] Kiểm tra chính tả và ngữ pháp
-- [ ] Tạo câu khẩu hiệu quảng cáo
+- [ ] `3` Tóm tắt văn bản tự động
+- [ ] `3` Tạo nội dung bài viết
+- [ ] `3` Tạo tiêu đề hấp dẫn
+- [ ] `4` Kiểm tra chính tả và ngữ pháp
+- [ ] `3` Tạo câu khẩu hiệu quảng cáo
 
 **Dịch thuật ngôn ngữ:**
 
-- [ ] Dịch văn bản sang các ngôn ngữ khác nhau
-- [ ] Chuyển đổi giữa các phương ngữ cùng ngôn ngữ
-- [ ] Dịch thuật chuyên ngành
+- [ ] `4` Dịch văn bản sang các ngôn ngữ khác nhau
+- [ ] `4` Chuyển đổi giữa các phương ngữ cùng ngôn ngữ
+- [ ] `3` Dịch thuật chuyên ngành
 
 **Giáo dục:**
 
-- [ ] Tạo câu hỏi trắc nghiệm
-- [ ] Tạo đề thi
-- [ ] Giải đáp thắc mắc của học viên
-- [ ] Tạo tài liệu học tập và bài giảng
-- [ ] Hỗ trợ viết luận văn và báo cáo
+- [ ] `3` Tạo câu hỏi trắc nghiệm
+- [ ] `3` Tạo đề thi
+- [ ] `3` Giải đáp thắc mắc của học viên
+- [ ] `3` Tạo tài liệu học tập và bài giảng
+- [ ] `3` Hỗ trợ viết luận văn và báo cáo
 
 **Nghiên cứu và phân tích dữ liệu:**
 
@@ -89,12 +89,12 @@ Ngoài ra, Bạn cũng có thể hỏi luôn ChatGPT cách hỏi ChatGPT :)))
 
 **Công nghệ thông tin:**
 
-- [ ] Đề xuất giải pháp công nghệ
-- [ ] Hỗ trợ lập trình viên giải quyết vấn đề mã nguồn
+- [ ] `3` Đề xuất giải pháp công nghệ
+- [ ] `3` Hỗ trợ lập trình viên giải quyết vấn đề mã nguồn
 
-- [ ] Hỗ trợ giải đáp thắc mắc về ngôn ngữ lập trình
-- [ ] Đưa ra gợi ý về cách tối ưu mã nguồn
-- [ ] Hỗ trợ viết tài liệu phát triển phần mềm
+- [ ] `3` Hỗ trợ giải đáp thắc mắc về ngôn ngữ lập trình
+- [ ] `3` Đưa ra gợi ý về cách tối ưu mã nguồn
+- [ ] `3` Hỗ trợ viết tài liệu phát triển phần mềm
 
 **Khoa học và công nghệ:**
 
